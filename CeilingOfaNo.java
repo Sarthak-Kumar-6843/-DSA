@@ -1,7 +1,7 @@
 public class CeilingOfaNo {
     public static void main(String[] args) {
-        int[] arr = {-79,-12,-11,-7,-2,2,13,14,16,22,34,54,65,76,96};
-        System.out.println(Ceiling(arr,36));
+        int[] arr = {2,13,14,16,22,34,54,65,76,96};
+        System.out.println(Ceiling(arr,1));
     }
     static int Ceiling(int[] arr , int target){
         int start = 0;
