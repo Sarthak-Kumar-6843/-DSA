@@ -15,40 +15,41 @@ public class Spiral {
             }
         }
 
-        System.out.println("Spiral order of matrix is : ");
+        System.out.println("Spiral order of matrix is: ");
         int rowStart = 0;
-        int rowEnd = n-1;
+        int rowEnd = n - 1;
         int colStart = 0;
-        int colEnd = m-1;
+        int colEnd = m - 1;
 
-
-        //to print spiral order matrix
-
-        while (rowStart <= rowEnd && colStart <= colEnd){
-            //1
-            for (int col = colStart; col < colEnd; col++) {
-                System.out.println(matrix[rowStart][col] + " ");
+        // to print spiral order matrix
+        while (rowStart <= rowEnd && colStart <= colEnd) {
+            // 1. Print the top row (left to right)
+            for (int col = colStart; col <= colEnd; col++) {
+                System.out.print(matrix[rowStart][col] + " ");
             }
             rowStart++;
 
-            //2
-            for (int row = rowStart;row < rowEnd; row++){
-                System.out.println(matrix[row][colStart] + " ");
+            // 2. Print the right column (top to bottom)
+            for (int row = rowStart; row <= rowEnd; row++) {
+                System.out.print(matrix[row][colEnd] + " ");
             }
             colEnd--;
 
-            //3
-            for (int col = colEnd; col >= colStart ; col++) {
-                System.out.println(matrix[rowEnd][col] + " ");
+            // 3. Print the bottom row (right to left)
+            if (rowStart <= rowEnd) {
+                for (int col = colEnd; col >= colStart; col--) {
+                    System.out.print(matrix[rowEnd][col] + " ");
+                }
+                rowEnd--;
             }
-            rowEnd--;
 
-            for (int row = rowEnd; row >= rowStart ; row++) {
-                System.out.println(matrix[row][colStart] + " ");
+            // 4. Print the left column (bottom to top)
+            if (colStart <= colEnd) {
+                for (int row = rowEnd; row >= rowStart; row--) {
+                    System.out.print(matrix[row][colStart] + " ");
+                }
+                colStart++;
             }
-            colStart++;
-
-            System.out.println();
         }
     }
 }
