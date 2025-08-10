@@ -11,10 +11,10 @@ public class username {
 
         String Username = "";
         for (int i = 0; i < user.length(); i++) {
-            if(user.charAt(i) == '@'){
-                break;
+            if(user.charAt(i) == '@'){//checks for @ in string user
+                break;//stops the process
             }else {
-                Username += user.charAt(i);
+                Username += user.charAt(i);//concatenation
             }
 
         }

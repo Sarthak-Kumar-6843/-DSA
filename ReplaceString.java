@@ -8,10 +8,10 @@ public class ReplaceString {
 
         String result = "";//empty string
         for (int i = 0; i < inputs.length(); i++) {
-            if (inputs.charAt(i) == 'e'){
-                result += 'i';
+            if (inputs.charAt(i) == 'e'){//checks for e
+                result += 'i';//replace e with i in result
             }else {
-                result += inputs.charAt(i);
+                result += inputs.charAt(i);//concatenation for both strings
             }
         }
 
