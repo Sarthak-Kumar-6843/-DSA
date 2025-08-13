@@ -21,6 +21,8 @@ public class StringBuilders {
         sb.delete(3,4);
         System.out.println(sb);
 
+
+        //append
         StringBuilder sb2 = new StringBuilder("h");
         sb2.append("e");
         sb2.append("l");
