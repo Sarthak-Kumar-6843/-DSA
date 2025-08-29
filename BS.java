@@ -2,7 +2,7 @@ public class BS {
     public static void main(String[] args) {
 
         int[] arr = {1, 2, 3, 4, 55, 66, 78};
-        int target = 67;
+        int target = 78;
         System.out.println(BS(arr,target,0, arr.length-1));
     }
     static int BS(int[] arr, int target, int s, int e){
