@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80d445c2-3e8e-4425-941a-3b72a17950a1" name="Changes" comment="CeilingOfaNo">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/ArrayListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Arrays2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/ChangeValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/FindMinNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/MaxArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/MaxWealth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/MultiAL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/MultiDimensionArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/ReplaceString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/SearchInMountainArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Spiral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/SplitArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Swapnos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/TwoDarrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/TwoDarrays_apnaclg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/arrays_Ques.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/colNoFixSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/input_Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/searchIn2dArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/BS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/CeilingOfaNo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/GuessNumHighOrLow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/MenuDriven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/OrderAgnosticBS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/RotatedBS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/SqrtOFn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/linearSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/searchInRange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/searchInStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/NestedSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/loops2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/FIndUniqueXOR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/TogglePosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/setBit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/typeconversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_Greater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_OddSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_Transpose.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_avg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_email.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_infinite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_names.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_power.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_radius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_replace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_searchTwoD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_sorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Ex_user.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_HowManyNumbersEntered.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_Sqrt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_add.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_area.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_area_circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_armstrong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_august.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_avgOfnumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_calc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_cgpa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_commision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_currency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_depreciation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_discount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_distance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_electricityBill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_even.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_even2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_evenodd_Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_factor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_factorialMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_goodpairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_howmanyNumareSmallerThantheCurrent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_inputArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_largestTill0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_leapyear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_marks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_marksArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_maxMin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_multiply.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_nNaturalnumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_oddeven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_perfectnos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_perimeterRhombus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_permutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_permutations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_prime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_prime2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_primeMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_primebetnos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_pythagoreanTriplets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_reverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_richest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_runningSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_searchForXin2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_searchforX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_searchforX2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_shuffle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_simpleInterest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_subtractSumandProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_sumOf2nos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_sumOfDiffNOs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_sumOfNos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_sumofallnumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_table2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_vote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/P_vowelOrconstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/Sieve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/SmallestLetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/oddeven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/passinginfunctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/powerOf2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/prime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/salary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/scope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/shadowing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/switchpractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/temperature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/CalPow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/CalPowLogN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/CaseCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Count0Recur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/CountingOccurence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/EvenDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/FInd_iThbit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/FirstAndLastPosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/FloorOfANo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/LinearSearchRec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/MInsam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Occurence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/OddEvenBit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/OnetoN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/P_palindromeMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/PeakIndexMountain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Recursion1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/ReverseString2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/RotatedBSrec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/RotationCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/SortedRec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/StepsRecur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/SubsetOfN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/SumOfDigitsRec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/TowerOfHanoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/XtoEnd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/countNo_Of_One.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/duplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/factRecur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/factorial_recur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/fiboRecur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/fibonacci_recur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/findTargetInInfiniteArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/functions_method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/getBit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/goldenRatio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/keypad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/largest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/largestnumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/maze.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/overloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/permutations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/primek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/productOfdigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/reverseRec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/reverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/sorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/subseq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/sumNto1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/sum_recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/uniqueSubsequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursionPattern/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort/Merge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort/Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort/bubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/StringBuilders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/StringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/SumOfStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/VarArgs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/username.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/ArrayListExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/Arrays2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/ChangeValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/FindMinNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/MaxArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/MaxWealth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/MultiAL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/MultiDimensionArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/ReplaceString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/SearchInMountainArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/Spiral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/SplitArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/Swapnos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/TwoDarrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/TwoDarrays_apnaclg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/arrays_Ques.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/colNoFixSize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/input_Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Array/searchIn2dArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/BinarySearch/BS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/BinarySearch/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/BinarySearch/CeilingOfaNo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/BinarySearch/GuessNumHighOrLow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/BinarySearch/MenuDriven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/BinarySearch/OrderAgnosticBS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/BinarySearch/RotatedBS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/BinarySearch/SqrtOFn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Desktop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/LinearSearch/linearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/LinearSearch/searchInRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/LinearSearch/searchInStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Loops/NestedSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Loops/loops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Loops/loops2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Operators/FIndUniqueXOR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Operators/TogglePosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Operators/setBit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Operators/typeconversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_Greater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_OddSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_Transpose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_avg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_email.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_infinite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_max.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_names.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_radius.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_replace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_searchTwoD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_sorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Ex_user.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_HowManyNumbersEntered.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_Sqrt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_area.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_area_circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_armstrong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_august.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_avgOfnumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_calc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_cgpa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_commision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_currency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_depreciation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_discount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_distance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_electricityBill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_even.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_even2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_evenodd_Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_factor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_factorialMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_goodpairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_greeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_howmanyNumareSmallerThantheCurrent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_inputArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_largestTill0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_leapyear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_marks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_marksArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_max.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_maxMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_multiply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_nNaturalnumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_oddeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_perfectnos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_perimeterRhombus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_permutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_permutations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_prime2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_primeMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_primebetnos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_pythagoreanTriplets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_reverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_richest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_runningSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_searchForXin2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_searchforX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_searchforX2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_shuffle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_simpleInterest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_subtractSumandProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_sumOf2nos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_sumOfDiffNOs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_sumOfNos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_sumofallnumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_table2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_vote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/P_vowelOrconstant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/Sieve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/SmallestLetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/oddeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/passinginfunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/powerOf2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/salary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/scope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/shadowing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/switchpractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Questions/temperature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/CalPow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/CalPowLogN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/CaseCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/Count0Recur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/CountingOccurence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/EvenDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/FInd_iThbit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/FirstAndLastPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/FloorOfANo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/LinearSearchRec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/MInsam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/Occurence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/OddEvenBit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/OnetoN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/P_palindromeMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/PeakIndexMountain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/Recursion1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/ReverseString2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/RotatedBSrec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/RotationCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/SortedRec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/StepsRecur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/SubsetOfN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/SumOfDigitsRec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/TowerOfHanoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/XtoEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/countNo_Of_One.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/duplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/factRecur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/factorial_recur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/fiboRecur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/fibonacci_recur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/findTargetInInfiniteArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/functions_method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/getBit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/goldenRatio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/keypad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/largest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/largestnumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/maze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/overloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/permutations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/primek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/productOfdigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/reverseRec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/reverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/sorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/subseq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/sumNto1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/sum_recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Recursion/uniqueSubsequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/RecursionPattern/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Sort/Merge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Sort/Sorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Sort/bubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Strings/StringBuilders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Strings/StringExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Strings/Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Strings/SumOfStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Strings/VarArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/Strings/username.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/patterns/FloydsTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/patterns/HalfPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/patterns/HalfPyramidWithNos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/patterns/HollowRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/patterns/InvertedHalfPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/patterns/InvertedHalfPyramidWithNos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/patterns/ReverseHalfPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/patterns/SolidRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/patterns/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/patterns/pattern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/patterns/pattern2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/patterns/pattern3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/FloydsTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/HalfPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/HalfPyramidWithNos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/HollowRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/InvertedHalfPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/InvertedHalfPyramidWithNos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/ReverseHalfPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/SolidRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/pattern1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/pattern2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patterns/pattern3.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sarthak-Kumar-6843&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sarthak-Kumar-6843/-DSA.git&quot;,
+    &quot;accountId&quot;: &quot;4dc32ef6-e23e-4234-a885-b858ad69d66f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2zb7XeL0yMszvxzAFIcUEaGtV2l" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalPow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalPowLogN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CeilingOfaNo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CeilingOfaNos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count0Recur.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.EvenDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_Greater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_OddSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_Transpose.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_avg.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_email.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_infinite.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_max.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_names.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_power.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_radius.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_replace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_searchTwoD.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_sorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex_user.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FIndUniqueXOR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FInd_iThbit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMinNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstAndLastPosition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloorOfANo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloydsTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GuessNumHighOrLow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HalfPyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HalfPyramidWithNos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HollowRectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InPlaceMerge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InvertedHalfPyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InvertedHalfPyramidWithNos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearchRec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MInsam.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxWealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MenuDriven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeString_leetcode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiAL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiDimensionArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Occurence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEvenBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OnetoN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_HowManyNumbersEntered.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_Sqrt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_Table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_add.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_area.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_area_circle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_armstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_august.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_avgOfnumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_calc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_concatanation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_currency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_depreciation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_discount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_distance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_electricityBill.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_even.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_even2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_evenodd_Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_factor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_factorialMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_goodpairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_greeting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_howmanyNumareSmallerThantheCurrent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_inputArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_largestTill0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_leapyear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_marks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_marksArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_max.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_maxMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_multiply.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_nNaturalnumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_oddeven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_palindromeMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_perfectnos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_perimeterRhombus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_permutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_permutations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_prime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_prime2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_primeMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_product.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_pythagoreanTriplets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_reverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_richest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_runningSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_searchForXin2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_searchforX.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_searchforX2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_shuffle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_simpleInterest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_subtractSumandProduct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_sumOf2nos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_sumOfDiffNOs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_sumOfNos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_sumofallnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_table2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P_vowelOrconstant.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Recursion1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseHalfPyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotatedBS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotatedBSrec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotationCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sieve.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SkipA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestLetter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SolidRectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortedRec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Spiral.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SqrtOFn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StepsRecur.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilders.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubsetOfN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfDigitsRec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swapnos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TogglePosition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TowerOfHanoi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoDarrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoDarrays_apnaclg.executor&quot;: &quot;Run&quot;,
+    &quot;Application.XtoEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.colNoFixSize.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countNo_Of_One.executor&quot;: &quot;Run&quot;,
+    &quot;Application.duplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factRecur.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial_recur.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fiboRecur.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibonacci_recur.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findTargetInInfiniteArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.getBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.goldenRatio.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hl.executor&quot;: &quot;Run&quot;,
+    &quot;Application.in.executor&quot;: &quot;Run&quot;,
+    &quot;Application.keypad.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maze.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.permutations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.powerOf2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primek.executor&quot;: &quot;Run&quot;,
+    &quot;Application.productOfdigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseRec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchIn2dArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchInRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchInStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.setBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.subseq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumNto1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum_recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.username.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;ToolWindow.Run.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/Desktop/java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lenovo/Desktop/java/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="BS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="24" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.BS" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="24" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearch" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count0Recur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Count0Recur" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvertedHalfPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="24" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="patterns.InvertedHalfPyramid" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P_greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="24" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Questions.P_greeting" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Count0Recur" />
+        <item itemvalue="Application.P_greeting" />
+        <item itemvalue="Application.InvertedHalfPyramid" />
+        <item itemvalue="Application.BS" />
+        <item itemvalue="Application.BinarySearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80d445c2-3e8e-4425-941a-3b72a17950a1" name="Changes" comment="" />
+      <created>1751987962584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751987962584</updated>
+    </task>
+    <task id="LOCAL-00001" summary="CeilingOfaNo">
+      <option name="closed" value="true" />
+      <created>1753817090840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753817090840</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CeilingOfaNo">
+      <option name="closed" value="true" />
+      <created>1753817132628</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753817132628</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CeilingOfaNo" />
+    <option name="LAST_COMMIT_MESSAGE" value="CeilingOfaNo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PRACTICE/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/SplitArray.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursionPattern/Triangle.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/Count0Recur.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/Count0Recur.java</url>
+          <line>8</line>
+          <properties class="Recursion.Count0Recur" method="count">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="static int BS(int[] arr, int target, int s, int e)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java$InvertedHalfPyramid.ic" NAME="InvertedHalfPyramid Coverage Results" MODIFIED="1757010076203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
