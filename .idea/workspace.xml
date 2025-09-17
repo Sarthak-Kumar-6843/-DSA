@@ -7,6 +7,10 @@
     <list default="true" id="80d445c2-3e8e-4425-941a-3b72a17950a1" name="Changes" comment="CeilingOfaNo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Recursion/Count0Recur.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Recursion/Count0Recur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Recursion/fiboRecur.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Recursion/fiboRecur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Count0Recur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Count0Recur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/fiboRecur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/fiboRecur.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +66,10 @@
     "Application.CalPowLogN.executor": "Run",
     "Application.CeilingOfaNo.executor": "Run",
     "Application.CeilingOfaNos.executor": "Run",
-    "Application.Count0Recur.executor": "Debug",
+    "Application.Count0Recur.executor": "Run",
+    "Application.CountDown.executor": "Run",
+    "Application.CountingPaths.executor": "Run",
+    "Application.DIce.executor": "Run",
     "Application.EvenDigits.executor": "Run",
     "Application.Ex_Greater.executor": "Run",
     "Application.Ex_OddSum.executor": "Run",
@@ -79,6 +86,7 @@
     "Application.Ex_searchTwoD.executor": "Run",
     "Application.Ex_sorted.executor": "Run",
     "Application.Ex_user.executor": "Run",
+    "Application.FIbo.executor": "Run",
     "Application.FIndUniqueXOR.executor": "Run",
     "Application.FInd_iThbit.executor": "Run",
     "Application.FindMinNum.executor": "Run",
@@ -169,6 +177,8 @@
     "Application.P_sumofallnumber.executor": "Run",
     "Application.P_table2.executor": "Run",
     "Application.P_vowelOrconstant.executor": "Run",
+    "Application.PowerFunction.executor": "Run",
+    "Application.PrintingPaths.executor": "Run",
     "Application.QuickSort.executor": "Run",
     "Application.Recursion1.executor": "Run",
     "Application.ReplaceString.executor": "Run",
@@ -191,9 +201,12 @@
     "Application.SqrtOFn.executor": "Run",
     "Application.StepsRecur.executor": "Run",
     "Application.StringBuilders.executor": "Run",
+    "Application.StringReversal.executor": "Run",
     "Application.Strings.executor": "Run",
     "Application.Subseq.executor": "Run",
     "Application.SubsetOfN.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.Sum1ToN.executor": "Run",
     "Application.SumOfDigitsRec.executor": "Run",
     "Application.SumOfStrings.executor": "Run",
     "Application.Swapnos.executor": "Run",
@@ -208,6 +221,7 @@
     "Application.countNo_Of_One.executor": "Run",
     "Application.duplicates.executor": "Run",
     "Application.factRecur.executor": "Run",
+    "Application.facto.executor": "Run",
     "Application.factorial_recur.executor": "Run",
     "Application.fiboRecur.executor": "Run",
     "Application.fibonacci_recur.executor": "Run",
@@ -220,6 +234,7 @@
     "Application.linearSearch.executor": "Run",
     "Application.maze.executor": "Run",
     "Application.p.executor": "Run",
+    "Application.palindromeRecursion.executor": "Run",
     "Application.pattern1.executor": "Run",
     "Application.pattern2.executor": "Run",
     "Application.pattern3.executor": "Run",

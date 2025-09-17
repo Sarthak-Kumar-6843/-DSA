@@ -2,7 +2,7 @@ package Recursion;
 
 public class Count0Recur {
     public static void main(String[] args) {
-        int n = 30204;
+        int n = 3020400;
         System.out.println(count(n));
     }
 
